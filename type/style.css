@@ -1,0 +1,268 @@
+div {
+	position: absolute;
+}
+
+p{
+  width: 350px;
+  font-family: helvetica;
+  position: absolute;
+  top: 220px;
+  color: rgb(22,72,255);
+  left:15px;
+}
+
+.r1 {
+	top: 55px;
+  left: 10px;
+  width: 0;
+  height: 0px;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 120px solid rgb(134,101,204);
+  opacity:0.65;
+}
+
+.r2 {
+  top: 40px;
+  left: 40px;
+  width: 0;
+  height: 0;
+  border-left: 35px solid transparent;
+  border-right: 35px solid transparent;
+  border-bottom: 100px solid rgb(22,72,255);
+  transform: rotate(90deg);
+  opacity: 0.75;
+}
+
+.r3 {
+  top: 30px;
+  left: 38px;
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 165px solid rgb(134,101,204);
+  transform: rotate(-25deg);
+  opacity:0.65;
+}
+
+div {
+	position: absolute;
+}
+
+.a {
+	left:120px;
+}
+
+.a1 {
+	top: 30px;
+  left: 75px;
+  width: 0;
+  height: 0px;
+  border-left: 20px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 180px solid rgb(22,72,255);
+  transform: rotate(-20deg);
+  opacity: 0.75
+}
+
+.a2 {
+  top: 50px;
+  left: 40px;
+  width: 0;
+  height: 0;
+  border-left: 40px solid transparent;
+  border-right: 0px solid transparent;
+  border-bottom: 130px solid rgb(134,101,204);
+  opacity:0.65;
+ 
+}
+
+div {
+	position: absolute;
+}
+
+.n {
+	left: 260px;
+}
+
+.n1 {
+	 top: 55px;
+  left: 30px;
+  width: 0;
+  height: 0;
+  border-left: 0px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 130px solid rgb(134,101,204);
+  opacity: 0.65
+}
+
+.n2 {
+	 top: 55px;
+  left: 80px;
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 150px solid rgb(22,72,255);
+  transform:rotate(180deg);
+  opacity: 0.75
+}
+
+div{
+  position: absolute;
+}
+
+.g {
+	left: 210px;
+}
+
+.g1 {
+ top: 10px;
+  left: 270px;
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 130px solid rgb(134,101,204);
+  transform:rotate(65deg);
+  opacity:0.65;
+
+}
+
+.g2 {
+	 top: 75px;
+  left: 270px;
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 170px solid rgb(22,72,255);
+  transform:rotate(125deg);
+  opacity: 0.75
+}
+
+.g3 {
+	 top: 120px;
+  left: 310px;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 60px solid rgb(134,101,204);
+  transform:rotate(-90deg);
+  opacity: 0.65
+}
+
+.g4 {
+	 top: 130px;
+  left: 320px;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 60px solid rgb(22,72,255);
+  transform:rotate(-180deg);
+  opacity: 0.75
+}
+
+div {
+  position: absolute;
+}
+
+.e {
+	left: 375px;
+}
+
+.e1 {
+ top: 50px;
+  left: 230px;
+  width: 0;
+  height: 0;
+  border-left: 0px solid transparent;
+  border-right: 40px solid transparent;
+  border-bottom: 142px solid rgb(22,72,255);
+  opacity:0.75;
+
+}
+
+.e2 {
+	 top: 130px;
+  left: 255px;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 100px solid rgb(134,101,204);
+  transform:rotate(-105deg);
+  opacity: 0.65
+}
+
+.e3 {
+	 top: 110px;
+  left: 245px;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 40px solid rgb(22,72,255);
+  transform:rotate(-80deg);
+  opacity: 0.75
+}
+
+.e4 {
+	 top: 30px;
+  left: 255px;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 80px solid rgb(134,101,204);
+  transform:rotate(80deg);
+  opacity: 0.65
+}
+
+div {
+  position:absolute;
+}
+
+
+.s {
+  left: 525px
+}
+
+.s1{
+   top: 70px;
+  left: 225px;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 120px solid rgb(134,101,204);
+  transform:rotate(135deg);
+  opacity: 0.75
+}
+
+.s2 {
+   top: 105px;
+  left: 205px;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 150px solid rgb(22,72,255);
+  transform:rotate(245deg);
+  opacity: 0.75
+}
+
+.s3 {
+   top: 10px;
+  left: 225px;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 120px solid rgb(22,72,255);
+  transform:rotate(70deg);
+  opacity: 0.75
+}
