@@ -7,9 +7,9 @@ p{
   font-family: helvetica;
   position: absolute;
   top: 220px;
-  color: rgb(22,72,255);
   left:15px;
 }
+
 
 .r1 {
 	top: 55px;
@@ -18,7 +18,7 @@ p{
   height: 0px;
   border-left: 15px solid transparent;
   border-right: 15px solid transparent;
-  border-bottom: 120px solid rgb(134,101,204);
+  border-bottom: 120px solid rgb(125,134,255);
   opacity:0.65;
 }
 
@@ -41,7 +41,7 @@ p{
   height: 0;
   border-left: 15px solid transparent;
   border-right: 15px solid transparent;
-  border-bottom: 165px solid rgb(134,101,204);
+  border-bottom: 165px solid rgb(125,134,255);
   transform: rotate(-25deg);
   opacity:0.65;
 }
@@ -73,7 +73,7 @@ div {
   height: 0;
   border-left: 40px solid transparent;
   border-right: 0px solid transparent;
-  border-bottom: 130px solid rgb(134,101,204);
+  border-bottom: 130px solid rgb(125,134,255);
   opacity:0.65;
  
 }
@@ -93,7 +93,7 @@ div {
   height: 0;
   border-left: 0px solid transparent;
   border-right: 100px solid transparent;
-  border-bottom: 130px solid rgb(134,101,204);
+  border-bottom: 130px solid rgb(125,134,255);
   opacity: 0.65
 }
 
@@ -124,7 +124,7 @@ div{
   height: 0;
   border-left: 30px solid transparent;
   border-right: 30px solid transparent;
-  border-bottom: 130px solid rgb(134,101,204);
+  border-bottom: 130px solid rgb(125,134,255);
   transform:rotate(65deg);
   opacity:0.65;
 
@@ -149,7 +149,7 @@ div{
   height: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-bottom: 60px solid rgb(134,101,204);
+  border-bottom: 60px solid rgb(125,134,255);
   transform:rotate(-90deg);
   opacity: 0.65
 }
@@ -193,7 +193,7 @@ div {
   height: 0;
   border-left: 20px solid transparent;
   border-right: 20px solid transparent;
-  border-bottom: 100px solid rgb(134,101,204);
+  border-bottom: 100px solid rgb(125,134,255);
   transform:rotate(-105deg);
   opacity: 0.65
 }
@@ -217,7 +217,7 @@ div {
   height: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-bottom: 80px solid rgb(134,101,204);
+  border-bottom: 80px solid rgb(125,134,255);
   transform:rotate(80deg);
   opacity: 0.65
 }
@@ -238,7 +238,7 @@ div {
   height: 0;
   border-left: 20px solid transparent;
   border-right: 20px solid transparent;
-  border-bottom: 120px solid rgb(134,101,204);
+  border-bottom: 120px solid rgb(125,134,255);
   transform:rotate(135deg);
   opacity: 0.75
 }
