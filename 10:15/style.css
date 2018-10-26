@@ -143,27 +143,15 @@ div{
 }
 
 .g3 {
-	 top: 120px;
-  left: 310px;
+  top: 130px;
+  left: 290px;
   width: 0;
   height: 0;
-  border-left: 10px solid transparent;
-  border-right: 10px solid transparent;
-  border-bottom: 60px solid rgb(125,134,255);
-  transform:rotate(-90deg);
-  opacity: 0.65
-}
-
-.g4 {
-	 top: 130px;
-  left: 320px;
-  width: 0;
-  height: 0;
-  border-left: 10px solid transparent;
-  border-right: 10px solid transparent;
-  border-bottom: 60px solid rgb(22,72,255);
-  transform:rotate(-180deg);
-  opacity: 0.75
+  border-left: 50px solid transparent;
+  border-right: 0px solid transparent;
+  border-bottom: 40px solid rgb(125,134,255);
+  transform:rotate(-70deg);
+  opacity:0.65;
 }
 
 div {
