@@ -17,7 +17,7 @@
   top: 1.5vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 600;
-  font-size: 5vw;
+  font-size: 6vw;
   line-height: 5vw;
   text-align: left; 
 }
@@ -26,7 +26,7 @@
   color: rgb(214,116,102);
   position: absolute;
   left: 15px;
-  top: 12vw;
+  top: 17vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 600;
   font-size: 4vw;
@@ -38,7 +38,7 @@
   color: rgb(214,116,102);
   position: absolute;
   left: 15px;
-  top: 17vw;
+  top: 21.5vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 400;
   font-size: 2.72vw;
@@ -92,7 +92,7 @@
 
 .wrapper {
   position: relative;
-  top: -12vw;
+  top: -10vw;
   width: 920px;
   margin: 80vh auto 0 auto;
 
@@ -108,4 +108,46 @@
   background-image: url("background6.jpg");
   background-size: cover;
   background-position: center;
+}
+
+@media (max-width: 411px) {
+	.fiberhouse {
+		font-size: 18px;
+	}
+	.sprouting {
+		font-size: 35px;
+		line-height: 32px;
+	}
+	.date {
+		font-size: 25px;
+		line-height: 105px;
+	}
+	.rsvp {
+		font-size: 17px;
+		line-height: 120px;
+	}
+
+	.text {
+		display: none;
+	}
+
+	.pic2 {
+		background-image:url(photo2.png);
+		position: center;
+		top: 600px;
+		left: 75px;
+	}
+
+	.pic3 {
+		background-image:url(photo3.png);
+		position: center;
+		top: -350px;
+		left: 75px;
+	}
+	.pic1 {
+		background-image:url(trysmall.png);
+		position: center;
+		top: -200px;
+		left: 75px;
+	}
 }
