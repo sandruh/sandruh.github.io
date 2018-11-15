@@ -1,12 +1,11 @@
 .fiberhouse {
   color: rgb(214,116,102);
-  width: 625px;
   position: absolute;
   left: 15px;
   top: 1vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 400;
-  font-size: 1.5vw;
+  font-size: 2.5vw;
   line-height: 1vw;
   text-align: left; 
 }
@@ -18,34 +17,32 @@
   top: 1.5vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 600;
-  font-size: 3vw;
-  line-height: 3vw;
+  font-size: 5vw;
+  line-height: 5vw;
   text-align: left; 
 }
 
 .date {
   color: rgb(214,116,102);
-  width: 900px;
   position: absolute;
   left: 15px;
-  top: 8vw;
+  top: 12vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 600;
-  font-size: 2.9vw;
-  line-height: 2vw;
+  font-size: 4vw;
+  line-height: 5vw;
   text-align: left; 
 }
 
 .rsvp {
   color: rgb(214,116,102);
-  width: 600px;
   position: absolute;
   left: 15px;
-  top: 11vw;
+  top: 17vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 400;
-  font-size: 2vw;
-  line-height: 2vw;
+  font-size: 2.72vw;
+  line-height: 4vw;
   text-align: left; 
 }
 
@@ -95,11 +92,12 @@
 
 .wrapper {
   position: relative;
-  top: -250px;
+  top: -12vw;
   width: 920px;
   margin: 80vh auto 0 auto;
 
 }
+
 
 .background {
   position: fixed;
