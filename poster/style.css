@@ -1,0 +1,113 @@
+.fiberhouse {
+  color: rgb(214,116,102);
+  width: 625px;
+  position: absolute;
+  left: 15px;
+  top: 1vw;
+  font-family: Gill Sans, Helvetica;
+  font-weight: 400;
+  font-size: 1.5vw;
+  line-height: 1vw;
+  text-align: left; 
+}
+
+.sprouting {
+  color: rgb(214,116,102);
+  position: absolute;
+  left: 15px;
+  top: 1.5vw;
+  font-family: Gill Sans, Helvetica;
+  font-weight: 600;
+  font-size: 3vw;
+  line-height: 3vw;
+  text-align: left; 
+}
+
+.date {
+  color: rgb(214,116,102);
+  width: 900px;
+  position: absolute;
+  left: 15px;
+  top: 8vw;
+  font-family: Gill Sans, Helvetica;
+  font-weight: 600;
+  font-size: 2.9vw;
+  line-height: 2vw;
+  text-align: left; 
+}
+
+.rsvp {
+  color: rgb(214,116,102);
+  width: 600px;
+  position: absolute;
+  left: 15px;
+  top: 11vw;
+  font-family: Gill Sans, Helvetica;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 2vw;
+  text-align: left; 
+}
+
+.photo {
+  float: left;
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background-repeat: no-repeat;
+  margin-right: 20px;
+}
+
+.pic1 {
+  background-image: url("try2.png");
+}
+
+.pic2{
+   background-image: url("pic2.png");
+   top: -50px;
+}
+
+.pic3 {
+	background-image: url("pic3.png");
+	top: -15px;
+}
+
+.text {
+  float: left;
+  color: rgb(214,116,102);
+  width: 400px;
+  position: relative;
+  font-family: Gill Sans, Helvetica;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 2.2vw;
+  text-align: left; 
+}
+
+.part2 {
+	top: 40px;
+}
+
+.part3 {
+	top: 475px;
+	left: 15px;
+}
+
+.wrapper {
+  position: relative;
+  top: -250px;
+  width: 920px;
+  margin: 80vh auto 0 auto;
+
+}
+
+.background {
+  position: fixed;
+  top: 0px;
+  left: 0;
+  height: 160vw;
+  width: 220vh;
+  background-image: url("background6.jpg");
+  background-size: cover;
+  background-position: center;
+}
