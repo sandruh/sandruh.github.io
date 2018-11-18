@@ -1,8 +1,8 @@
 .fiberhouse {
   color: rgb(214,116,102);
   position: absolute;
-  left: 15px;
-  top: 1vw;
+  left: 18vw;
+  top: 2vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 400;
   font-size: 2.5vw;
@@ -13,7 +13,7 @@
 .sprouting {
   color: rgb(214,116,102);
   position: absolute;
-  left: 15px;
+  left: 18vw;
   top: 1.5vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 600;
@@ -25,7 +25,7 @@
 .date {
   color: rgb(214,116,102);
   position: absolute;
-  left: 15px;
+  left: 18vw;
   top: 17vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 600;
@@ -37,7 +37,7 @@
 .rsvp {
   color: rgb(214,116,102);
   position: absolute;
-  left: 15px;
+  left: 18vw;
   top: 21.5vw;
   font-family: Gill Sans, Helvetica;
   font-weight: 400;
@@ -62,6 +62,7 @@
 .pic2{
    background-image: url("pic2.png");
    top: -50px;
+   left: 15px;
 }
 
 .pic3 {
@@ -112,19 +113,19 @@
 
 @media (max-width: 411px) {
 	.fiberhouse {
-		font-size: 18px;
+		font-size: 16px;
 	}
 	.sprouting {
 		font-size: 35px;
 		line-height: 32px;
 	}
 	.date {
-		font-size: 25px;
-		line-height: 105px;
+		font-size: 20px;
+		line-height: 170px;
 	}
 	.rsvp {
-		font-size: 17px;
-		line-height: 120px;
+		font-size: 15px;
+		line-height: 180px;
 	}
 
 	.text {
@@ -134,20 +135,20 @@
 	.pic2 {
 		background-image:url(photo2.png);
 		position: center;
-		top: 600px;
+		top: 500px;
 		left: 75px;
 	}
 
 	.pic3 {
 		background-image:url(photo3.png);
 		position: center;
-		top: -350px;
-		left: 75px;
+		top: -400px;
+		left: 100px;
 	}
 	.pic1 {
 		background-image:url(trysmall.png);
 		position: center;
-		top: -200px;
-		left: 75px;
+		top: -225px;
+		left: 100px;
 	}
 }
