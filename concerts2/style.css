@@ -1,3 +1,15 @@
+body {
+	margin: 0;
+}
+
+.background {
+	width:100vw;
+	height: 100vw;
+	top: 0px;
+	left:0px;
+	background-color: rgb(36,37,94);
+}
+
 .concert {
 	color: rgb(255,255,255);
 	position: absolute;
@@ -18,94 +30,89 @@
 	line-height: 15vw;
 }
 
-.photo1 {
+.photo {
 	float: left;
-	position: relative;
+	position: absolute;
 	width: 250px;
 	height: 250px;
-	top: -90px;
+	top: 300px;
+	left: -40px;
 	background-repeat: no-repeat;
-	margin-right: 20px;
 	background-size: contain;
-}
-
-.photo2 {
-	float: left;
-	position: relative;
-	width: 250px;
-	height: 250px;
-	background-repeat: no-repeat;
-	top: -220px;
-	left: -50px;
-	margin-right: 20px;
-	background-size: contain;
-	background-position: center;
+	transition: all 500ms ease-in-out;
+	cursor: pointer;
 }
 
 .panic1 {
 	background-image: url("panic1.png");
-	transition: all 500ms ease-in-out;
+}
+
+.top1 {
+	background-image: url("top1.png");
+	top: 170px;
+	left: 170px;
+}
+
+.bleachers1 {
+	background-image: url("bleachers1.png");
+	top: 430px;
+	left: 170px;
+}
+.panic2 {
+	background-image: url("panic2.png");
+	left: 380px;
+
+}
+
+.wtm1 {
+	background-image: url("wtm1.png");
+	top: 170px;
+	left: 590px;
+}
+
+.wtm2 {
+	background-image: url("wtm2.png");
+	top: 430px;
+	left: 590px;
+}
+
+.top2 {
+	background-image:url("top2.png");
+	left: 800px;
+
+}
+
+.bleachers2 {
+	background-image:url("bleachers2.png");
+	top: 170px;
+	left: 1010px;
+
+}
+
+.panic3 {
+	background-image: url("panic3.png");
+	top: 430px;
+	left: 1010px;
+
+}
+
+.top3 {
+	background-image: url("top3.png");
+	left: 1220px;
 }
 
 .panictitle {
 	background-image: url("panictitle.png");
 }
 
-.top1 {
-	background-image: url("top1.png");
+.toptitle {
+	background-image: url("toptitle.png");
 }
 
-.bleachers1 {
-	background-image: url("bleachers1.png");
-	z-index: 1;
-	top: 20px;
-	left: -320px;
-}
-.panic2 {
-	background-image: url("panic2.png");
-	left: -370px;
-
+.bleacherstitle {
+	background-image: url("bleacherstitle.png");
 }
 
-.wtm1 {
-	background-image: url("wtm1.png");
-	left: 650px;
-	top: -475px;
-}
-
-.wtm2 {
-	background-image: url("wtm2.png");
-	left: 375px;
-	top: -235px;
-}
-
-.top2 {
-	background-image:url("top2.png");
-	top: -335px;
-	left:315px;
-}
-
-.bleachers2 {
-	background-image:url("bleachers1.png");
-	top: -470px;
-	left: 255px;
-}
-
-.panic3 {
-	background-image: url("panic3.png");
-	top: -485px;
-	left: 1065px;
-}
-
-.top3 {
-	background-image: url("top3.png");
-	top: -590px;
-	left: 1000px;
-}
-
-.wrapper {
-	position: relative;
-	top: -10vw;
-	width: 1300px;
-	margin: 80vh auto 0vh auto;
+.wtmtitle {
+	background-image: url("wtmtitle.png");
 }

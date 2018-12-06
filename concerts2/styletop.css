@@ -1,0 +1,242 @@
+body {
+	margin: 0;
+}
+
+.background {
+	width:100vw;
+	height: 300vw;
+	top: 0px;
+	left:0px;
+	background-color: rgb(89,96,64);
+}
+
+.title {
+	color: rgb(252,227,0);
+	position: absolute;
+	left: 31.5vw;
+	top: .5vw;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 600;
+	font-size: 4vw;
+}
+
+.subhead {
+	color: rgb(252,227,0);
+	position: absolute;
+	left: 36vw;
+	top: 6vw;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 400;
+	font-size: 3vw;
+}
+
+.dates {
+color: rgb(252,227,0);
+	position: absolute;
+	left: 45vw;
+	top: 11vw;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 300;
+	font-size: 2vw;
+}
+
+.photo {
+	float: left;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 300px;
+	left: 100px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.top2013 {
+	background-image: url(top2013.png);
+}
+
+.top31 {
+	background-image: url("top31.png");
+	left:320px;
+	width:420px;
+}
+
+.top32 {
+	background-image: url("top32.png");
+	top:520px;
+	height: 420px;
+}
+
+.top33 {
+	background-image: url("top33.png");
+	top: 520px;
+	left: 320px;
+}
+
+.top34 {
+	background-image: url("top34.png");
+	top: 520px;
+	left: 540px;
+}
+
+.top35 {
+	background-image: url("top35.png");
+	top: 740px;
+	left: 320px;
+}
+
+.top36 {
+	background-image: url("top36.png");
+	top: 740px;
+	left: 540px;
+}
+
+.photo2 {
+	float: left;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 980px;
+	left: 780px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.top2014 {
+	background-image: url("top2014.png");
+}
+
+.top41 {
+	background-image: url("top41.png");
+	left: 1000px;
+	width: 420px;
+}
+
+.top42 {
+	background-image: url("top42.png");
+	top:1200px;
+}
+
+.top43 {
+	background-image: url("top43.png");
+	top: 1200px;
+	left: 1000px;
+}
+
+.top44 {
+	background-image: url("top44.png");
+	top:1200px;
+	left:1220px;
+}
+
+.top45 {
+	background-image: url("top45.png");
+	top:1420px;
+	width: 420px;
+}
+
+.top46 {
+	background-image: url("top46.png");
+	top:1420px;
+	left:1220px;
+}
+
+.photo3 {
+	float: left;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 1660px;
+	left: 100px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.top2016 {
+	background-image: url("top2016.png");
+}
+
+.top61 {
+	background-image: url("top61.png");
+	left: 320px;
+	width: 420px;
+}
+
+.top62 {
+	background-image: url("top62.png");
+	top:1880px;
+}
+
+.top63 {
+	background-image: url("top63.png");
+	top: 1880px;
+	left: 320px;
+}
+
+.top64 {
+	background-image: url("top64.png");
+	top:1880px;
+	left:540px;
+}
+
+.top65 {
+	background-image: url("top65.png");
+	top:2100px;
+	width: 420px;
+}
+
+.top66 {
+	background-image: url("top66.png");
+	top:2100px;
+	left:540px;
+}
+
+.photo4 {
+	float: left;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 2340px;
+	left: 780px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.top2017 {
+	background-image: url("top2017.png");
+}
+
+
+.top71 {
+	background-image: url("top71.png");
+	left: 1000px;
+}
+
+.top72 {
+	background-image: url("top72.png");
+	height: 420px;
+	left: 1220px;
+}
+
+.top73 {
+	background-image: url("top73.png");
+	top: 2560px;
+}
+
+.top74 {
+	background-image: url("top74.png");
+	top:2560px;
+	left:1000px;
+}
+
+.top75 {
+	background-image: url("top75.png");
+	top:2780px;
+	width: 420px;
+}
+
+.top76 {
+	background-image: url("top76.png");
+	top:2780px;
+	left:1220px;
+}

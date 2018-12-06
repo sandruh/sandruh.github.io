@@ -1,0 +1,234 @@
+body {
+	margin: 0;
+}
+
+.background {
+	width:100vw;
+	height: 220vw;
+	top: 0px;
+	left:0px;
+	background-color: rgb(46,107,116);
+}
+
+.title {
+	color: rgb(216, 173, 142);
+	position: absolute;
+	left: 31.5vw;
+	top: .5vw;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 600;
+	font-size: 4vw;
+}
+
+.subhead {
+	color: rgb(216, 173, 142);
+	position: absolute;
+	left: 36vw;
+	top: 6vw;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 400;
+	font-size: 3vw;
+}
+
+.dates {
+color: rgb(216, 173, 142);
+	position: absolute;
+	left: 45vw;
+	top: 11vw;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 300;
+	font-size: 2vw;
+}
+
+.photo {
+	float: left;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 300px;
+	left: 100px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.panic31 {
+	background-image: url("panic2013.png");
+}
+
+.panic32 {
+	background-image: url("panic32.png");
+	left: 320px;
+}
+
+.panic33 {
+	background-image: url("panic33.png");
+	left:540px;
+	width: 200px;
+	height: 420px;
+}
+
+.panic34 {
+	background-image: url("panic34.png");
+	left: 320px;
+	top: 520px;
+}
+
+.panic35 {
+	background-image: url("panic35.png");
+	top: 520px;
+}
+
+.panic36 {
+	background-image: url("panic36.png");
+	top: 740px;
+	width: 420px;
+}
+
+.panic37 {
+	background-image: url("panic37.png");
+	top: 740px;
+	left: 540px;
+}
+
+.photo2 {
+	float: left;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 980px;
+	left: 760px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.panic2014 {
+	background-image: url("panic2014.png");
+}
+
+.panic41 {
+	background-image: url("panic41.png");
+	width: 420px;
+	left: 980px;
+}
+
+.panic42 {
+	background-image: url("panic42.png");
+	top: 1200px;
+	height: 420px;
+}
+
+.panic43 {
+	background-image: url("panic43.png");
+	top: 1200px;
+	left: 980px;
+}
+
+.panic44 {
+	background-image: url("panic44.png");
+	top: 1200px;
+	left: 1200px;
+}
+
+.panic45 {
+	background-image: url("panic45.png");
+	top: 1420px;
+	left: 980px;
+}
+
+.panic46 {
+	background-image: url("panic46.png");
+	top: 1420px;
+	left: 1200px;
+}
+
+.photo3 {
+	float: left;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 1660px;
+	left: 100px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.panic2016 {
+	background-image: url("panic2016.png");
+}
+
+.panic61 {
+	background-image: url("panic61.png");
+	left: 320px;
+	width: 420px;
+}
+
+.panic62 {
+	background-image: url("panic62.png");
+	top:1880px;
+	height: 420px;
+}
+
+
+.panic63 {
+	background-image: url("panic63.png");
+	top: 1880px;
+	left: 320px;
+}
+
+.panic64 {
+	background-image: url("panic64.png");
+	top: 1880px;
+	left: 540px;
+}
+
+.panic65 {
+	background-image: url("panic65.png");
+	top: 2100px;
+	left: 320px;
+}
+
+.panic66 {
+	background-image: url("panic66.png");
+	top: 2100px;
+	left: 540px;
+}
+
+.photo4 {
+	float: left;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 2340px;
+	left: 760px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.panic2018 {
+	background-image: url("panic2018.png");
+}
+
+.panic81 {
+	background-image: url("panic81.png");
+	left: 980px;
+	width: 420px;
+}
+
+.panic82 {
+	background-image: url("panic82.png");
+	top: 2560px;
+	height: 420px;
+	width:420px;
+}
+
+.panic83 {
+	background-image: url("panic83.png");
+	top: 2560px;
+	left: 1200px;
+}
+
+.panic84 {
+	background-image: url("panic84.png");
+	top: 2780px;
+	left: 1200px;
+}
