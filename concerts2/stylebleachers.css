@@ -3,9 +3,142 @@ body {
 }
 
 .background {
-	width:100vw;
-	height: 100vw;
+	width:250vw;
+	height: 225vw;
 	top: 0px;
 	left:0px;
-	background-color: rgb(36,37,94);
+	background-color: rgb(247,247,247);
+}
+
+.title {
+	color: rgb(213,81,59);
+	position: absolute;
+	left: 40vw;
+	top: .5vw;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 600;
+	font-size: 4vw;
+}
+
+.subhead {
+	color: rgb(213,78,52);
+	position: absolute;
+	left: 36vw;
+	top: 6vw;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 400;
+	font-size: 3vw;
+}
+
+.dates {
+color: rgb(213,78,52);
+	position: absolute;
+	left: 45vw;
+	top: 11vw;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 300;
+	font-size: 2vw;
+}
+
+.bleachers14 {
+	float: left;
+	position: absolute;
+	width: 640px;
+	height: 640px;
+	top: 300px;
+	left: 50px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-image: url("bleachers14.png");
+}
+
+.bleachers15 {
+	float: left;
+	position: absolute;
+	width: 640px;
+	height: 640px;
+	top: 980px;
+	left: 750px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-image: url("bleachers15.png");
+}
+
+.bleachers17 {
+	float: left;
+	position: absolute;
+	width: 640px;
+	height: 640px;
+	top: 1660px;
+	left: 50px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-image: url("bleachers17.png");
+}
+
+.bleachers18 {
+	float: left;
+	position: absolute;
+	width: 640px;
+	height: 640px;
+	top: 2340px;
+	left: 750px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-image: url("bleachers18.png");
+}
+
+.line {
+	position: absolute;
+	height: 2040px;
+	width: 7px;
+	background-color: rgb(213,81,59);
+	top: 400px;
+	left: 717px;
+}
+
+.line1 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(213,81,59);
+	top: 400px;
+	left: 688px;
+}
+
+.line2 {
+	position: absolute;
+	height: 7px;
+	width: 28px;
+	background-color: rgb(213,81,59);
+	top: 1080px;
+	left: 722px;
+}
+
+.line3 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(213,81,59);
+	top: 1760px;
+	left: 688px;
+}
+
+.line4 {
+	position: absolute;
+	height: 7px;
+	width: 34px;
+	background-color: rgb(213,81,59);
+	top: 2440px;
+	left: 717px;
+}
+
+.home {
+	color: rgb(213,81,59);
+	position: absolute;
+	left: 38vw;
+	top: 3000px;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 400;
+	font-size: 3vw;
 }

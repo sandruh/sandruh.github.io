@@ -4,10 +4,38 @@ body {
 
 .background {
 	width:100vw;
-	height: 100vw;
+	height: 70vw;
 	top: 0px;
 	left:0px;
 	background-color: rgb(36,37,94);
+}
+
+.photobg {
+	background-repeat: no-repeat;
+	width:100vw;
+	height: 100vw;
+	background-size: cover;
+	background-position: center;
+}
+
+.panicbg {
+	background-image: url("panicbg.jpg");
+}
+
+.topbg {
+	background-image: url("topbg.jpg");
+}
+
+.wtmbg {
+
+}
+
+.bleachersbg {
+
+}
+
+.hide {
+	opacity: 0;
 }
 
 .concert {

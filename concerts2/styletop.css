@@ -4,7 +4,7 @@ body {
 
 .background {
 	width:100vw;
-	height: 300vw;
+	height: 275vw;
 	top: 0px;
 	left:0px;
 	background-color: rgb(89,96,64);
@@ -46,18 +46,18 @@ color: rgb(252,227,0);
 	width: 200px;
 	height: 200px;
 	top: 300px;
-	left: 100px;
+	left: 50px;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 
 .top2013 {
 	background-image: url(top2013.png);
+	left: 490px;
 }
 
 .top31 {
 	background-image: url("top31.png");
-	left:320px;
 	width:420px;
 }
 
@@ -70,25 +70,25 @@ color: rgb(252,227,0);
 .top33 {
 	background-image: url("top33.png");
 	top: 520px;
-	left: 320px;
+	left: 270px;
 }
 
 .top34 {
 	background-image: url("top34.png");
 	top: 520px;
-	left: 540px;
+	left: 490px;
 }
 
 .top35 {
 	background-image: url("top35.png");
 	top: 740px;
-	left: 320px;
+	left: 270px;
 }
 
 .top36 {
 	background-image: url("top36.png");
 	top: 740px;
-	left: 540px;
+	left: 490px;
 }
 
 .photo2 {
@@ -97,7 +97,7 @@ color: rgb(252,227,0);
 	width: 200px;
 	height: 200px;
 	top: 980px;
-	left: 780px;
+	left: 750px;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
@@ -108,7 +108,7 @@ color: rgb(252,227,0);
 
 .top41 {
 	background-image: url("top41.png");
-	left: 1000px;
+	left: 970px;
 	width: 420px;
 }
 
@@ -120,13 +120,13 @@ color: rgb(252,227,0);
 .top43 {
 	background-image: url("top43.png");
 	top: 1200px;
-	left: 1000px;
+	left: 970px;
 }
 
 .top44 {
 	background-image: url("top44.png");
 	top:1200px;
-	left:1220px;
+	left:1190px;
 }
 
 .top45 {
@@ -138,7 +138,7 @@ color: rgb(252,227,0);
 .top46 {
 	background-image: url("top46.png");
 	top:1420px;
-	left:1220px;
+	left:1190px;
 }
 
 .photo3 {
@@ -147,18 +147,18 @@ color: rgb(252,227,0);
 	width: 200px;
 	height: 200px;
 	top: 1660px;
-	left: 100px;
+	left: 50px;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 
 .top2016 {
 	background-image: url("top2016.png");
+	left: 490px;
 }
 
 .top61 {
 	background-image: url("top61.png");
-	left: 320px;
 	width: 420px;
 }
 
@@ -170,13 +170,13 @@ color: rgb(252,227,0);
 .top63 {
 	background-image: url("top63.png");
 	top: 1880px;
-	left: 320px;
+	left: 270px;
 }
 
 .top64 {
 	background-image: url("top64.png");
 	top:1880px;
-	left:540px;
+	left:490px;
 }
 
 .top65 {
@@ -188,7 +188,7 @@ color: rgb(252,227,0);
 .top66 {
 	background-image: url("top66.png");
 	top:2100px;
-	left:540px;
+	left:490px;
 }
 
 .photo4 {
@@ -197,7 +197,7 @@ color: rgb(252,227,0);
 	width: 200px;
 	height: 200px;
 	top: 2340px;
-	left: 780px;
+	left: 750px;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
@@ -209,13 +209,13 @@ color: rgb(252,227,0);
 
 .top71 {
 	background-image: url("top71.png");
-	left: 1000px;
+	left: 970px;
 }
 
 .top72 {
 	background-image: url("top72.png");
 	height: 420px;
-	left: 1220px;
+	left: 1190px;
 }
 
 .top73 {
@@ -226,7 +226,7 @@ color: rgb(252,227,0);
 .top74 {
 	background-image: url("top74.png");
 	top:2560px;
-	left:1000px;
+	left:970px;
 }
 
 .top75 {
@@ -238,5 +238,119 @@ color: rgb(252,227,0);
 .top76 {
 	background-image: url("top76.png");
 	top:2780px;
-	left:1220px;
+	left:1190px;
+}
+
+.photo5 {
+	float: left;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 3020px;
+	left: 50px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.top2018 {
+	background-image: url("top2018.png");
+	left: 490px;
+}
+
+.top81 {
+	background-image: url("top81.png");
+	width: 420px;
+}
+
+.top82 {
+	background-image: url("top82.png");
+	top: 3240px;
+}
+
+.top83 {
+	background-image: url("top83.png");
+	top: 3240px;
+	left: 270px;
+}
+
+.top84 {
+	background-image: url("top84.png");
+	top: 3240px;
+	left: 490px;
+}
+
+.top85 {
+	background-image: url("top85.png");
+	top: 3460px;
+	width: 420px;
+}
+
+.top86 {
+	background-image: url("top86.png");
+	top: 3460px;
+	left: 490px;
+}
+
+.line {
+	position: absolute;
+	height: 2720px;
+	width: 7px;
+	background-color: rgb(252,227,0);
+	top: 400px;
+	left: 717px;
+}
+
+.line1 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(252,227,0);
+	top: 400px;
+	left: 688px;
+}
+
+.line2 {
+	position: absolute;
+	height: 7px;
+	width: 28px;
+	background-color: rgb(252,227,0);
+	top: 1080px;
+	left: 722px;
+}
+
+.line3 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(252,227,0);
+	top: 1760px;
+	left: 688px;
+}
+
+.line4 {
+	position: absolute;
+	height: 7px;
+	width: 28px;
+	background-color: rgb(252,227,0);
+	top: 2440px;
+	left: 722px;
+}
+
+.line5 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(252,227,0);
+	top: 3120px;
+	left: 689px;
+}
+
+.home {
+	color: rgb(252,227,0);
+	position: absolute;
+	left: 38vw;
+	top: 3700px;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 400;
+	font-size: 3vw;
 }

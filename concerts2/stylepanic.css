@@ -46,36 +46,37 @@ color: rgb(216, 173, 142);
 	width: 200px;
 	height: 200px;
 	top: 300px;
-	left: 100px;
+	left: 50px;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 
 .panic31 {
 	background-image: url("panic2013.png");
+	left: 490px;
 }
 
 .panic32 {
 	background-image: url("panic32.png");
-	left: 320px;
+	left: 270px;
 }
 
 .panic33 {
 	background-image: url("panic33.png");
-	left:540px;
 	width: 200px;
 	height: 420px;
 }
 
 .panic34 {
 	background-image: url("panic34.png");
-	left: 320px;
+	left: 270px;
 	top: 520px;
 }
 
 .panic35 {
 	background-image: url("panic35.png");
 	top: 520px;
+	left: 490px;
 }
 
 .panic36 {
@@ -87,7 +88,7 @@ color: rgb(216, 173, 142);
 .panic37 {
 	background-image: url("panic37.png");
 	top: 740px;
-	left: 540px;
+	left: 490px;
 }
 
 .photo2 {
@@ -96,7 +97,7 @@ color: rgb(216, 173, 142);
 	width: 200px;
 	height: 200px;
 	top: 980px;
-	left: 760px;
+	left: 750px;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
@@ -108,7 +109,7 @@ color: rgb(216, 173, 142);
 .panic41 {
 	background-image: url("panic41.png");
 	width: 420px;
-	left: 980px;
+	left: 970px;
 }
 
 .panic42 {
@@ -120,25 +121,25 @@ color: rgb(216, 173, 142);
 .panic43 {
 	background-image: url("panic43.png");
 	top: 1200px;
-	left: 980px;
+	left: 970px;
 }
 
 .panic44 {
 	background-image: url("panic44.png");
 	top: 1200px;
-	left: 1200px;
+	left: 1190px;
 }
 
 .panic45 {
 	background-image: url("panic45.png");
 	top: 1420px;
-	left: 980px;
+	left: 970px;
 }
 
 .panic46 {
 	background-image: url("panic46.png");
 	top: 1420px;
-	left: 1200px;
+	left: 1190px;
 }
 
 .photo3 {
@@ -147,18 +148,18 @@ color: rgb(216, 173, 142);
 	width: 200px;
 	height: 200px;
 	top: 1660px;
-	left: 100px;
+	left: 50px;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 
 .panic2016 {
 	background-image: url("panic2016.png");
+	left: 490px;
 }
 
 .panic61 {
 	background-image: url("panic61.png");
-	left: 320px;
 	width: 420px;
 }
 
@@ -172,25 +173,25 @@ color: rgb(216, 173, 142);
 .panic63 {
 	background-image: url("panic63.png");
 	top: 1880px;
-	left: 320px;
+	left: 270px;
 }
 
 .panic64 {
 	background-image: url("panic64.png");
 	top: 1880px;
-	left: 540px;
+	left: 490px;
 }
 
 .panic65 {
 	background-image: url("panic65.png");
 	top: 2100px;
-	left: 320px;
+	left: 270px;
 }
 
 .panic66 {
 	background-image: url("panic66.png");
 	top: 2100px;
-	left: 540px;
+	left: 490px;
 }
 
 .photo4 {
@@ -199,7 +200,7 @@ color: rgb(216, 173, 142);
 	width: 200px;
 	height: 200px;
 	top: 2340px;
-	left: 760px;
+	left: 750px;
 	background-repeat: no-repeat;
 	background-size: contain;
 }
@@ -210,7 +211,7 @@ color: rgb(216, 173, 142);
 
 .panic81 {
 	background-image: url("panic81.png");
-	left: 980px;
+	left: 970px;
 	width: 420px;
 }
 
@@ -224,11 +225,66 @@ color: rgb(216, 173, 142);
 .panic83 {
 	background-image: url("panic83.png");
 	top: 2560px;
-	left: 1200px;
+	left: 1190px;
 }
 
 .panic84 {
 	background-image: url("panic84.png");
 	top: 2780px;
-	left: 1200px;
+	left: 1190px;
+}
+
+.line {
+	position: absolute;
+	height: 2040px;
+	width: 7px;
+	background-color: rgb(216, 173, 142);
+	top: 400px;
+	left: 717px;
+}
+
+.line1 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(216, 173, 142);
+	top: 400px;
+	left: 688px;
+}
+
+.line2 {
+	position: absolute;
+	height: 7px;
+	width: 28px;
+	background-color: rgb(216, 173, 142);
+	top: 1080px;
+	left: 722px;
+}
+
+.line3 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(216, 173, 142);
+	top: 1760px;
+	left: 688px;
+}
+
+.line4 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(216, 173, 142);
+	top: 2440px;
+	left: 717px;
+}
+
+.home {
+	color: rgb(216, 173, 142);
+	position: absolute;
+	left: 37vw;
+	top: 3000px;
+	font-family: Quasimoda, Helvetica;
+	font-weight: 400;
+	font-size: 3vw;
 }
