@@ -10,21 +10,31 @@ body {
 	background-color: rgb(46,107,116);
 }
 
+.concert {
+	color: rgb(216, 173, 142);
+	position: absolute;
+	left: 3vw;
+	top: .5vw;
+	font-family: Maple, Cubano, Hobeaux;
+	font-weight: 600;
+	font-size: 3.5vw;
+}
+
 .title {
 	color: rgb(216, 173, 142);
 	position: absolute;
-	left: 31.5vw;
-	top: .5vw;
-	font-family: Quasimoda, Helvetica;
+	left: 3vw;
+	top: 4vw;
+	font-family: Maple, Quasimoda, Helvetica;
 	font-weight: 600;
-	font-size: 4vw;
+	font-size: 5vw;
 }
 
 .subhead {
 	color: rgb(216, 173, 142);
 	position: absolute;
-	left: 36vw;
-	top: 6vw;
+	left: 3vw;
+	top: 9vw;
 	font-family: Quasimoda, Helvetica;
 	font-weight: 400;
 	font-size: 3vw;
@@ -33,8 +43,8 @@ body {
 .dates {
 color: rgb(216, 173, 142);
 	position: absolute;
-	left: 45vw;
-	top: 11vw;
+	left: 3vw;
+	top: 13.5vw;
 	font-family: Quasimoda, Helvetica;
 	font-weight: 300;
 	font-size: 2vw;
@@ -236,7 +246,7 @@ color: rgb(216, 173, 142);
 
 .line {
 	position: absolute;
-	height: 2040px;
+	height: 2600px;
 	width: 7px;
 	background-color: rgb(216, 173, 142);
 	top: 400px;
@@ -282,9 +292,45 @@ color: rgb(216, 173, 142);
 .home {
 	color: rgb(216, 173, 142);
 	position: absolute;
-	left: 37vw;
+	left: 34vw;
 	top: 3000px;
-	font-family: Quasimoda, Helvetica;
+	font-family: Maple, Quasimoda, Helvetica;
 	font-weight: 400;
 	font-size: 3vw;
+}
+
+.ptour1 {
+	background-image: url("ptour1.png");
+	float: left;
+	position: absolute;
+	top: 520px;
+	left: 750px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 420px;
+	height: 420px;
+}
+
+.ptour2 {
+	background-image: url("ptour2.jpg");
+	float: left;
+	position: absolute;
+	width: 420px;
+	height: 420px;
+	top: 980px;
+	left: 370px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.ptour3 {
+	background-image: url("ptour3.jpg");
+	float: left;
+	position: absolute;
+	width: 420px;
+	height: 420px;
+	top: 1660px;
+	left: 750px;
+	background-repeat: no-repeat;
+	background-size: contain;
 }

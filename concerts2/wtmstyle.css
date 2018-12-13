@@ -4,8 +4,111 @@ body {
 
 .background {
 	width:100vw;
-	height: 100vw;
+	height: 170vw;
 	top: 0px;
 	left:0px;
-	background-color: rgb(36,37,94);
+	background-color: rgb(50,42,91);
+}
+
+.concert {
+	color: rgb(161,100,132);
+	position: absolute;
+	left: 3vw;
+	top: .5vw;
+	font-family: Maple, Cubano, Hobeaux;
+	font-weight: 600;
+	font-size: 3.5vw;
+}
+
+.title {
+	color: rgb(161,100,132);
+	position: absolute;
+	left: 3vw;
+	top: 4vw;
+	font-family: Maple, Quasimoda, Helvetica;
+	font-weight: 600;
+	font-size: 5vw;
+}
+
+.wtm14 {
+	float: left;
+	position: absolute;
+	width: 640px;
+	height: 640px;
+	top: 300px;
+	left: 50px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-image: url("wtm14.png");
+}
+
+.wtm15 {
+	float: left;
+	position: absolute;
+	width: 640px;
+	height: 640px;
+	top: 980px;
+	left: 750px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-image: url("wtm15.png");
+}
+
+.wtm18 {
+	float: left;
+	position: absolute;
+	width: 640px;
+	height: 640px;
+	left: 50px;
+	top: 1660px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-image: url("wtm18.png");
+}
+
+
+.line {
+	position: absolute;
+	height: 1920px;
+	width: 7px;
+	background-color: rgb(161,100,132);
+	top: 400px;
+	left: 717px;
+}
+
+.line1 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(161,100,132);
+	top: 400px;
+	left: 688px;
+}
+
+.line2 {
+	position: absolute;
+	height: 7px;
+	width: 28px;
+	background-color: rgb(161,100,132);
+	top: 1080px;
+	left: 722px;
+}
+
+.line3 {
+	position: absolute;
+	height: 7px;
+	width: 35px;
+	background-color: rgb(161,100,132);
+	top: 1760px;
+	left: 688px;
+}
+
+.home {
+	color: rgb(161,100,132);
+	position: absolute;
+	left: 34vw;
+	top: 2300px;
+	font-family: Maple, Quasimoda, Helvetica;
+	font-weight: 400;
+	font-size: 3vw;
 }

@@ -42,19 +42,19 @@ body {
 	color: rgb(255,255,255);
 	position: absolute;
 	left: 2vw;
-	top: 1.5vw;
-	font-family: Quasimoda, Helvetica;
+	top: .5vw;
+	font-family: Maple, Cubano, Hobeaux;
 	font-weight: 600;
-	font-size: 2vw;
+	font-size: 4vw;
 }
 .choose {
 	color: rgb(255,255,255);
 	position: absolute;
 	left: 2vw;
-	top: 1.5vw;
+	top: -0.5vw;
 	font-family: Quasimoda, Helvetica;
 	font-weight: 200;
-	font size: 1vw;
+	font size: 5vw;
 	line-height: 15vw;
 }
 

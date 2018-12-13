@@ -10,14 +10,24 @@ body {
 	background-color: rgb(247,247,247);
 }
 
+.concert {
+	color: rgb(213,81,59);
+	position: absolute;
+	left: 3vw;
+	top: .5vw;
+	font-family: Maple, Cubano, Hobeaux;
+	font-weight: 600;
+	font-size: 3.5vw;
+}
+
 .title {
 	color: rgb(213,81,59);
 	position: absolute;
-	left: 40vw;
-	top: .5vw;
-	font-family: Quasimoda, Helvetica;
+	left: 3vw;
+	top: 3.5vw;
+	font-family: Maple, Quasimoda, Helvetica;
 	font-weight: 600;
-	font-size: 4vw;
+	font-size: 5vw;
 }
 
 .subhead {
@@ -90,7 +100,7 @@ color: rgb(213,78,52);
 
 .line {
 	position: absolute;
-	height: 2040px;
+	height: 2610px;
 	width: 7px;
 	background-color: rgb(213,81,59);
 	top: 400px;
@@ -136,9 +146,9 @@ color: rgb(213,78,52);
 .home {
 	color: rgb(213,81,59);
 	position: absolute;
-	left: 38vw;
+	left: 34vw;
 	top: 3000px;
-	font-family: Quasimoda, Helvetica;
+	font-family: Maple, Quasimoda, Helvetica;
 	font-weight: 400;
 	font-size: 3vw;
 }
